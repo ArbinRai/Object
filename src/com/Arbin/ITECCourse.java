@@ -7,7 +7,7 @@ public class ITECCourse {
     private String name;
     private int code;
 
-   /* public String getName() {
+   public String getName() {
         return name;
     }
 
@@ -38,7 +38,7 @@ public class ITECCourse {
     public void setMaxStudents(int maxStudents) {
         this.maxStudents = maxStudents;
     }
-*/
+
     private ArrayList<String>students;
     private int maxStudents;
 
